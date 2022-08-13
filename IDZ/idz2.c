@@ -34,3 +34,11 @@ int task2()
     getch();
     return 0;
 }
+
+
+
+int main(int argc, char const *argv[])
+{	
+	task2();
+	return 0;
+}
